@@ -1,2 +1,2 @@
-#0.tcp.eu.ngrok.io$
+#localhost$
 @7777$
